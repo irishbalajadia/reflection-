@@ -1,0 +1,1 @@
+console.log("My reflection during Intramurals are that it was a fun and exciting event. I cheered for my friends and all the IICT participants. It felt good to support everyone and watch them do their best. I realized that being part of the team and showing up for each other is just as important as winning");
